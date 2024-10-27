@@ -1,9 +1,10 @@
 ## Olá! Eu sou o ArturxVazz
 
 
-- 🔭 Estudando Java,python e SQL.
-- 🌱 Trabalho atualmente na area de tecnologia da raia Drogasil.
-- 👯 Contate-me pelo email: vazs.artur@gmail.com
+- 🎓 Estudando atualmente Java,python e SQL.
+- 💻 Trabalho atualmente na area de tecnologia da raia Drogasil.
+- 📧 Contate-me pelo email icone de email abaixo.
+- 🙍‍♂️ Um jovem apaixonado pela tecnologia e inovação.
   
 
 ##
@@ -42,6 +43,6 @@ Atuo como: **Technological ruler**
 ##         
 
 <div> 
-  <a href = "mailto:vazs.artur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arturvaz.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-vaz-ab4a86229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
